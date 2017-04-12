@@ -3,6 +3,7 @@
 namespace Repertoire\Models\Traits;
 
 use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Support\Str;
 
 trait Filtered
 {
